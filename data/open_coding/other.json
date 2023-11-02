@@ -1,0 +1,299 @@
+[
+  {
+    "P": "P30",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "x",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P33",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "x",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P36",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P38",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P52",
+    "Sufficient": "",
+    "Use domain links": "x",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P54",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P60",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "x",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P68",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P70",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "x",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P85",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P100",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P119",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P124",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "x",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P128",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "x",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P133",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "x",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P137",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P146",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P162",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P178",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P181",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P183",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P189",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P207",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P208",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P209",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P214",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P215",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": "x"
+  },
+  {
+    "P": "P217",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P219",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P220",
+    "Sufficient": "x",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P225",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P228",
+    "Sufficient": "",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "x",
+    "Linter ecosystem documentation": ""
+  },
+  {
+    "P": "P234",
+    "Sufficient": "X",
+    "Use domain links": "",
+    "Describe exceptions, alternatives and limitations": "",
+    "Describe risk": "",
+    "Describe configuration": "",
+    "Linter ecosystem documentation": ""
+  }
+]
